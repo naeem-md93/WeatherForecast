@@ -6,7 +6,7 @@ How to use the app:
 2. activate the environment:
 ``` source .venv/bin/activate ```
 3. clone the repository:
-``` git clone '' ```
+``` git clone https://github.com/naeem-md93/WeatherForecast.git ```
 4. change directory:
 ``` cd WeatherForecast ```
 5. install requirements:
